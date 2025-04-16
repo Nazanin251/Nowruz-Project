@@ -8,7 +8,7 @@
 <br />
 
 
-### **📌Desctiption**  
+### **📌Description**  
 ---
 **Genius** is a popular platform where music enthusiasts can explore and annotate the meaning behind song lyrics and other media.
 This project is a simple Java-based implementation inspired by the Genius concept. It demonstrates core **object-oriented programming (OOP)** principles such as encapsulation, inheritance, and polymorphism to model and manage lyrical content and user interactions.
