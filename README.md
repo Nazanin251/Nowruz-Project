@@ -62,3 +62,6 @@ Ensure the following are installed before running the application:
 
 ### **✍🏻Author**
  **Nazanin Zahra Fatemi**
+
+## **📜 License**
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
