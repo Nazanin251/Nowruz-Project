@@ -14,10 +14,10 @@
 This project is a simple Java-based implementation inspired by the Genius concept. It demonstrates core **object-oriented programming (OOP)** principles such as encapsulation, inheritance, and polymorphism to model and manage lyrical content and user interactions.
 
 ### **Features**
- -User Roles and Permissions
- -Commenting & Like tracks
- -Follow artist
- -Search & Browse Functionality
+ - User Roles and Permissions
+ - Commenting & Like tracks
+ - Follow artist
+ - Search & Browse Functionality
   
 ### **🛠️Requirements**
 ---
